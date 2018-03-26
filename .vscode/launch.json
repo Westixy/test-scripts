@@ -1,0 +1,44 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "SRV",
+      "program": "${workspaceFolder}/srv.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "CLI",
+      "program": "${workspaceFolder}/cli.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "test",
+      "program": "${workspaceFolder}/test.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "generate",
+      "program": "${workspaceFolder}/generate.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "findNode",
+      "program": "${workspaceFolder}/nodefinder.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "IRC",
+      "program": "${workspaceFolder}/irc/index.js"
+    }
+  ]
+}
