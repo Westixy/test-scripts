@@ -8,6 +8,7 @@
     "blessed-contrib": "^4.8.5",
     "commander": "^2.12.2",
     "csv": "^2.0.0",
+    "debug": "^3.1.0",
     "fs-extra": "^4.0.3",
     "inquirer": "^4.0.1",
     "mime": "^2.2.0",
@@ -16,7 +17,8 @@
     "node-ipc": "^9.1.1",
     "prettier": "^1.11.1",
     "rxjs": "^5.5.6",
-    "utf8": "^3.0.0"
+    "utf8": "^3.0.0",
+    "uuid": "^3.2.1"
   },
   "devDependencies": {},
   "scripts": {
